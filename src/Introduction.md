@@ -1,4 +1,8 @@
 #  Introduction 
+American Farming is deeply ingrained in our country's identity; a large driver in American population growth and land expansion, farming has established itself as a core industry in AMerican culture. Due to a combination of socio-economic disparities and agrarian policy, the barrier to entry for new farmers has become increasingly difficult. These difficulties to establish and maintain a profitable farm has led the farmining industry to consolidate land and profits unproportionately. The reduced competition in food supply chains has led to higher food prices for consumers.
+
+
+
 - [ ] Context
 	- [ ] environmental
 		- [ ] industrial farming
@@ -20,3 +24,7 @@
 - scaling to industrial farming, cheap devices
 - Machine learning to provide strong predictive analytics
 - trading marketplace
+
+##### Sources
+[ https://online.ucpress.edu/elementa/article/doi/10.1525/elementa.356/112494/Securing-the-future-of-US-agriculture-The-case-for ]
+[ https://www.usda.gov/media/press-releases/2024/10/08/usda-announces-actions-lower-food-prices-bring-fairness-farmers-and#:~:text=%E2%80%9CFor%20too%20long%2C%20consolidation%20in,prices%20at%20the%20grocery%20store. ]
