@@ -1,1 +1,22 @@
 #  Introduction 
+- [ ] Context
+	- [ ] environmental
+		- [ ] industrial farming
+		- [ ] reducing resource waste by optimizing inputs
+	- [ ] health
+		- [ ] organics
+	- [ ] cultural
+		- [ ] first two factors combine to play a cultural trend that is marketable
+		- [ ] marketable trends allow for a greater positive movements
+- [ ] Target audience
+	- [ ] the initial target audience is for small scale crop cultivation, people who want to reduce environmental impact and lead a healthier life but do not have a background in farming
+
+- increase trends in sustainable food
+- environmental impact
+- health benefits
+- rising costs of food
+- targeting the urban and suburban areas
+- lowering the barrier to entry to farming through providing easy to implement analytics
+- scaling to industrial farming, cheap devices
+- Machine learning to provide strong predictive analytics
+- trading marketplace
