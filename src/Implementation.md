@@ -20,6 +20,6 @@ NEEDS TO BE OUTLINED
 - [ ] waterproofing
 - [ ] power
 ###### Software
-The sensors is programmed to run a python script for connecting network 
+The sensor is programmed to run a python script for network connection, collecting sensor inputs, and triggering API calls. 
 
 ## Media Package
