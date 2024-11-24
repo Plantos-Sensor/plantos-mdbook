@@ -5,28 +5,6 @@ The combination of these factors are prompting a cultural return to self-sustain
 
 A Plantos sensor is an IoT microcontroller that collects environmental inputs through a VWC sensor and soil temperature gauge. The inputs are aggregated to a centralized relational database through an API call triggered directly from the microcontroller. The environmental data is processed through a timeseries ML model to predict lows in soil moisture levels. These predictive outputs are translated to notify the end-user when to water the crop and in what volumetric quantity.
 
-- [ ] Context
-	- [X] environmental
-		- [X] industrial farming
-		- [ ] reducing resource waste by optimizing inputs
-	- [ ] health
-		- [ ] organics
-	- [ ] cultural
-		- [ ] first two factors combine to play a cultural trend that is marketable
-		- [ ] marketable trends allow for a greater positive movements
-- [X] Target audience
-	- [X] the initial target audience is for small scale crop cultivation, people who want to reduce environmental impact and lead a healthier life but do not have a background in farming
-
-- increase trends in sustainable food
-- environmental impact
-- health benefits
-- rising costs of food
-- targeting the urban and suburban areas
-- lowering the barrier to entry to farming through providing easy to implement analytics
-- scaling to industrial farming, cheap devices
-- Machine learning to provide strong predictive analytics
-- trading marketplace
-
 ##### Sources
 [ https://online.ucpress.edu/elementa/article/doi/10.1525/elementa.356/112494/Securing-the-future-of-US-agriculture-The-case-for ]
 [ https://www.usda.gov/media/press-releases/2024/10/08/usda-announces-actions-lower-food-prices-bring-fairness-farmers-and#:~:text=%E2%80%9CFor%20too%20long%2C%20consolidation%20in,prices%20at%20the%20grocery%20store. ]
