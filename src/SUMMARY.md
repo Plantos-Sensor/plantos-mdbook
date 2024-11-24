@@ -1,6 +1,6 @@
 # Summary
 
-[ Overview ](./Overview.md)
+ Overview
 - [ Abstract ](./Abstract.md)
 - [ Introduction ](./Introduction.md)
 - [ Design Criteria ](./DesignCriteria.md)
