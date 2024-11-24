@@ -1,7 +1,7 @@
 #  Introduction 
-American Farming is deeply ingrained in our country's identity; a large driver in American population growth and land expansion, farming has established itself as a core industry in AMerican culture. Due to a combination of socio-economic disparities and agrarian policy, the barrier to entry for new farmers has become increasingly difficult. These difficulties to establish and maintain a profitable farm has led the farmining industry to consolidate land and profits unproportionately. The reduced competition in food supply chains has led to higher food prices for consumers.
+American Farming is deeply ingrained in our country's identity; a large driver in American population growth and land expansion, farming has established itself as a core industry in American culture. Due to a combination of socio-economic disparities and agrarian policy, the barrier to entry for new farmers has become increasingly high. These difficulties to establish and maintain a profitable farm has led the farmning industry to consolidate land and profits unproportionately. The reduced competition in food supply chains has culminated on the consumer level, negatively impacting food prices, quality, and environmental sustainability.
 
-
+The combination of these factors are prompting a cultural return to self-sustainability, as planting ones own produce can alleviate some of the challenges created by the American farming industry. Farming requires immense amounts of institutional knowledge which is frequently aquired through years of experience. To a consumer farmer, with little or no background in operating a farm, obtaining this knowledge through conventional methods is untangible. Plantos aims to provide an out-of-the-box solution for what consumer farmers lack in institutional industrial farming knowlege.
 
 - [ ] Context
 	- [ ] environmental
