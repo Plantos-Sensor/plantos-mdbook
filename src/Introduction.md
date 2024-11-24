@@ -3,17 +3,19 @@ American Farming is deeply ingrained in our country's identity; a large driver i
 
 The combination of these factors are prompting a cultural return to self-sustainability, as planting ones own produce can alleviate some of the challenges created by the American farming industry. Farming requires immense amounts of institutional knowledge which is frequently acquired through years of experience. To a consumer farmer, with little or no background in operating a farm, obtaining this knowledge through conventional methods is intangible. Plantos aims to provide an out-of-the-box solution for what consumer farmers lack in institutional industrial farming knowledge.
 
+A Plantos sensor is an IoT microcontroller that collects environmental inputs through a VWC sensor and soil temperature gauge. The inputs are aggregated to a centralized relational database through an API call triggered directly from the microcontroller. The environmental data is processed through a timeseries ML model to predict lows in soil moisture levels. These predictive outputs are translated to notify the end-user when to water the crop and in what volumetric quantity.
+
 - [ ] Context
-	- [ ] environmental
-		- [ ] industrial farming
+	- [X] environmental
+		- [X] industrial farming
 		- [ ] reducing resource waste by optimizing inputs
 	- [ ] health
 		- [ ] organics
 	- [ ] cultural
 		- [ ] first two factors combine to play a cultural trend that is marketable
 		- [ ] marketable trends allow for a greater positive movements
-- [ ] Target audience
-	- [ ] the initial target audience is for small scale crop cultivation, people who want to reduce environmental impact and lead a healthier life but do not have a background in farming
+- [X] Target audience
+	- [X] the initial target audience is for small scale crop cultivation, people who want to reduce environmental impact and lead a healthier life but do not have a background in farming
 
 - increase trends in sustainable food
 - environmental impact
