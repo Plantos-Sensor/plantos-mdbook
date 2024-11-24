@@ -1,4 +1,5 @@
 # Design Criteria
+The prototype product will need to meet these requirements:
 ###### Sensor
 - Network connection
 - data collection
