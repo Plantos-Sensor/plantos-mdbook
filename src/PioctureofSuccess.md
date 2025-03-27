@@ -1,2 +1,2 @@
-# Abstract
+# Picture of Success
 Plantos is a project with the goal of promoting accessibility to permaculture. To lower the barrier to entry for sustainable urban farming, the Plantos Project will collect and analyze environmental plant health data to provide end-users with easy-to-implement techniques for increasing crop output. A successful implementation of Plantos will result in users capable of conducting a sow-to-harvest process of a crop with little to no institutional knowledge of farming. Success of the project will be tested and measured through the amount of users obtained and crop yield results per a user.
