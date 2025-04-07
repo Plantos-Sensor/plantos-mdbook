@@ -6,7 +6,7 @@
 - [ Precision Agriculture Primer ](./PrecisionArgriculturePrimer.md)
 
 # Resources
-- [ State of Precision Agriculture Today ](./StateofPAT.md)
+- [ The State of Precision Agriculture Today ](./StateofPAT.md)
 
 # Hardware
 - [ Internet of Things ](./InternetofThings.md)
