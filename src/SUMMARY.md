@@ -3,10 +3,10 @@
 # Overview
 [ Introduction ](./Introduction.md)
 - [ Picture of Success ](./PictureOfSuccess.md)
-- [ Precision Agriculture Primer ](./)
+- [ Precision Agriculture Primer ](./PrecisionArgriculturePrimer.md)
 
 # Resources
-- [ State of Precision Agriculture Today ](./)
+- [ State of Precision Agriculture Today ](./StateofPAT.md)
 
 # Hardware
-- [ Internet of Things ](./)
+- [ Internet of Things ](./InternetofThings.md)
