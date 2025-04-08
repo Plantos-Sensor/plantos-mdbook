@@ -10,5 +10,3 @@ PATs are used to tackle a wide-variety of different obstacles faced by farmers, 
 - Drone imaging to predict crop yields
 - Remote sensors for measuring soil nitrogen
 - AI imaging to detect diseases in crops
-
-With the onset of accessible commercial AI tools, PATs have only become more accurate 
