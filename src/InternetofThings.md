@@ -6,4 +6,5 @@ IoT is a gernalized term that refers to the network of communication created bet
 ## IoT in Plantos
 IoT plays an essential role in gathering data in the field, especially when it comes to performing the real-time analytics required for successful precision agriculture. Plantos creates an IoT network between micro-controllers connected to sensors and a centralized gateway which relays data to a cloud database.
 
-![image](https://github.com/user-attachments/assets/2bbeaf58-d355-41e6-b5cb-9d7a87df38de)
+![image](https://github.com/user-attachments/assets/fef07b8e-9dae-4aff-9c0c-c05635840422)
+
