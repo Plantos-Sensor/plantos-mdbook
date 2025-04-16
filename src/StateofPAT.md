@@ -10,5 +10,5 @@ Precision Agriculture Technologies (PATs) are currently a catlyst to the growing
 ![image](https://github.com/user-attachments/assets/4fd579d9-913f-457d-a8fd-6f59c741f3ea)
 > Where Do We Come From? What Are We? Where Are We Going? by Paul Gauguin
 
-## Where Do We Come From? What Are We? Where Are We Going?
+## The Data
 Just as Paul Gauguin attempted to unravel the philosphical meaning of life with three primary questions in his painting, I'll attempt to answer the importance of precision agriculture through the lenses of the past, present, and future.
