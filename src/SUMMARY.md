@@ -7,6 +7,7 @@
 
 # Blog
 - [ The State of Precision Agriculture Today ](./StateofPAT.md)
+- [ Technology's Home in Agriculture ](./TechsHomeinAg.md)
 
 # Hardware
 - [ Internet of Things ](./InternetofThings.md)
