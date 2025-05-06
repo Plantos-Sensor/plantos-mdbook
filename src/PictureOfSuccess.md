@@ -1,2 +1,4 @@
 # Picture of Success
 Envision a future where farming uncertainties are minimized through precise, real-time predictive analytics accessible via smartphones. In this world, successful farming no longer relies solely on generational wisdom and costly trial-and-error approaches. Instead, farmers can proactively identify potential challenges and implement preventive measures, thanks to data-driven insights that guide their decision-making. This technological advancement democratizes farming expertise, enabling both seasoned and novice farmers to optimize their operations with greater confidence and efficiency.
+
+Imagine a world where access to effective technology is not synonymous with absurd costs and confusing interfaces. This is a world where data is owned by the farmers and any skepticism or hypothesis around efficacy can be tested through experimental design.
