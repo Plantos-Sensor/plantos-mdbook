@@ -20,7 +20,7 @@ Smallholder farms demographically make up a huge portion of the agricultural lan
 
 Socio-demographic variables (i.e., age, gender, education, farming experience, income, and farm size) and their correlation with PAT adoption can help explain the current state of precision agriculture in small to medium-sized farms. Studies show that individuals most likely to adopt PATs are between 25-50 years old, have post-secondary education, extensive farming experience, and manage large acreages [[1]](https://www.mdpi.com/2077-0472/15/2/177). Small-scale farmers are significantly underrepresented in this demographic compared to industrial farming operations. Examining the barriers to entry can help us identify areas of improvement to increase PAT integration to small and medium sized farms.
 
-The top 5 set-backs for smallholder farmers in deploying PATs are [[1]](https://www.mdpi.com/2077-0472/15/2/177) [[2]](https://www.mdpi.com/2077-0472/13/1/163):
+The top 5 setbacks for smallholder farmers in deploying PATs are [[1]](https://www.mdpi.com/2077-0472/15/2/177) [[2]](https://www.mdpi.com/2077-0472/13/1/163):
 1. Cost
 2. Ease-of-use
 3. Interoperability
