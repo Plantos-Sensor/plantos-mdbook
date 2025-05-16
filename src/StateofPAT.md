@@ -27,7 +27,7 @@ The top 5 set-backs for smallholder farmers in deploying PATs are [[1]](https://
 4. Power consumption
 5. Signal range
 
-High costs present the greatest barrier to entry, driven by the novelty of technology and the need to purchase multiple units to achieve scale. The high prices are not perceived as a favorable cost-reward tradeoff for smallholder farmers who are not in a position to take on additional input costs. Setup, onboarding, user interface, and data interpretation can result in a depletion of precious time and cause unnecessary frustration for farmers who decide to implement (PATs.
+High costs present the greatest barrier to entry, driven by the novelty of technology and the need to purchase multiple units to achieve scale. The high prices are not perceived as a favorable cost-reward tradeoff for smallholder farmers who are not in a position to take on additional input costs. Setup, onboarding, user interface, and data interpretation can result in a depletion of precious time and cause unnecessary frustration for farmers who decide to implement PATs.
 
 The rapidly evolving nature of technology results in the accumulation of varying tech from different companies. The lack of interoperability between these different systems can render devices unusable, even though they may be only one or two generations old. Even with newer models, high-powered systems force developers to choose between optimizing signal ranges, power sources, and accurate sensing components, leaving room for inconsistency.
 
