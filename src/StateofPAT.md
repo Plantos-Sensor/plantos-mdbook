@@ -13,7 +13,7 @@ Ensuring the future of smallholder farming is synonymous with ensuring the futur
 Competition with large scale farming, cuts to government grants and subsidies, and rising expenses of resources and land are only a few of the factors preventing smallholder farmers from staying afloat. Just as we as a community cannot afford to let these farms fall behind the in the agricultural industry, smallholder farmers cannot afford to forgo PAT implementation. Rapid advancements in hardware and artificial intelligence are enabling the creation of cost-efficient and user-friendly PAT tools. These developments have the potential to transform the current reality of farming, making these technologies more accessible to a broader range of agricultural operations.
 
 ## Demographics Tell the Story
-Smallholder farms demographically make up a huge portion of the agricultural landscape yet experience an asymetrical amount of crop productivity per area of land, the lack of PAT integration plays a significant factor in this statistical inbalance.
+Smallholder farms demographically make up a huge portion of the agricultural landscape yet experience an asymmetrical amount of crop productivity per area of land, the lack of PAT integration plays a significant factor in this statistical inbalance.
 > [...] about 89 percent of all farms were small family farms. Small family farms operated 45 percent of U.S. agricultural land and produced 18 percent of the total value of production.
 > 
 > America’s Farms and Ranches at a Glance: 2022 Edition
