@@ -10,7 +10,7 @@ With the global population projected to reach 10 billion by 2050, the farming in
 PATs come with their own set of obstacles that make implementation difficult for a major portion of small to medium-sized farming operations. Primary barriers to entry among small farms include costs, ease of use, and reliability/range. Farmers who are already operating on minimal margins find it difficult to take risks on new technology that has an unproven track record. Accurate and reliable hardware tends to be quite cost-intensive and operationally complex, which is why PATs are historically more frequently deployed in large-scale farming practices. Large swaths of the farming population are missing out on the efficiencies that PATs can offer due to these barriers.
 
 ### Finding Solutions in Data
-Plantos provides an easy to use and low-cost remote sensor for optimizing agricultural inputs crops. The goal is to create a plug-and-play sensor that provides a smooth user experience from onboarding and collecting your first dataset to reading outputs and implementing optimizations.
+Plantos provides a co-op based forum to navigate these barriers to entry and explore new methods for reasoning about technology in the smallholder farm. The goal is to create a a low-cost and user friendly stack of tools through focusing on major technological advancements.
 
 Combination of two key tech concepts:
 1. Remote sensing (RS)
