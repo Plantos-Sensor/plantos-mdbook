@@ -19,7 +19,7 @@ Combination of two key tech concepts:
 Internet of Things (IOT) devices provide us with a low-cost method for collecting data in the field and relaying it to a network for analysis. Where low-cost RS lacks in accuracy, ML will be able to standardize data and maintian data integrity. Then predictive models will be able to digest the input data and provide users with actionable information right to their phone or computer.
 
 ### Join the Discussion
-Plantos stands at the intersection of agricultural necessity and technological innovation. By addressing the critical barriers of cost, complexity, and reliability that have traditionally prevented small and medium-sized farms from adopting Precision Agriculture Technologies, we're democratizing access to tools that can transform farming operations.
+Plantos stands at the intersection of agricultural necessity and technological innovation. By addressing the critical barriers of cost, complexity, and reliability that have traditionally prevented small and medium-sized farms from adopting tech, we're democratizing access to tools that can transform farming operations.
 
 Our cooperative approach combines the power of remote sensing, machine learning, and IoT devices to create an accessible ecosystem that turns data into actionable insights. Farmers using Plantos don't just gain technology—they gain a pathway to increased efficiency, reduced environmental impact, and improved profitability without the prohibitive investments typically required.
 
